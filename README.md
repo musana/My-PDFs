@@ -1,2 +1,2 @@
-# pdfs
-pdf of presentation
+# Sunumlar
+Şimdiye kadar hazırlayıp sunduğum sunumları bu repoda topluyorum.
